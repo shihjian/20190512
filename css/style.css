@@ -44,7 +44,8 @@ table {
 
 img{
   max-width:100%;
-height:auto;
+  height:auto;
+  margin-bottom: 10px;
 }
 
 
@@ -441,6 +442,7 @@ hr {
 .portfoliocontent li{
   width: 100%;
   margin: 10px;
+  color:#fff;
 
 
 }
